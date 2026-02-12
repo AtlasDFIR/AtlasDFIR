@@ -7,16 +7,15 @@ I am currently enrolled with Western Governor's University and looking to major 
 
 My lifelong obsession with technology and fancy doodads has led me to develop a passion for the cybersecurity realm, often filled with puzzling alerts, questionable end-users, and copious amounts of caffeine to wash it all down. I am currently looking to be apart of a SOC as a Tier 1 analyst, or transition to a specialized team of cybersecurity!
 
-## Skills
+## Current Development Tracks
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Discipline | Active Application |
+|------------|-------------------|
+| SIEM Detection Engineering | Building & tuning detection logic in Splunk / Elastic |
+| Endpoint Security Monitoring | Investigating telemetry via Microsoft Defender for Endpoint |
+| Threat Hunting | IOC development & behavioral pattern analysis |
+| Network Traffic Analysis | Packet & flow inspection across lab environments |
+| Incident Response | Alert triage, case documentation, reporting workflows |
 
 ## Tools
 
@@ -51,5 +50,4 @@ Below are the tools I frequently use (or used) at my job/s! I won't claim to be 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Work in progress, stay tuned!
