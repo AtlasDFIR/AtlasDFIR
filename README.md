@@ -39,6 +39,21 @@ Below are the tools I frequently use (or used) at my job/s! I won't claim to be 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Network Security / Perimeter Defense
+<div>
+    <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-F04E23?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+</div>
+
+### Identity Security / PAM
+<div>
+    <img src="https://img.shields.io/badge/-CyberArk-00B0F0?&style=for-the-badge&logo=cyberark&logoColor=white" />
+</div>
+
+### Case Management / SOAR / ITSM
+<div>
+    <img src="https://img.shields.io/badge/-ServiceNow-00A1E0?&style=for-the-badge&logo=servicenow&logoColor=white" />
+</div>
+
 ### Security Awareness / Phishing Defense
 <div>
   <img src="https://img.shields.io/badge/-Cofense-FF6A00?&style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
