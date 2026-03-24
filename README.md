@@ -32,7 +32,7 @@ MODUS-Intel is a Python-based OSINT enrichment and reputation analysis tool desi
 
 #### Example Usage
 
-```bash
+bash
 python -m modus_intel.cli scan 8.8.8.8 --format pretty
 
 ## Current Development Tracks
