@@ -42,13 +42,14 @@ python -m modus_intel.cli scan 8.8.8.8 --format pretty
 
 ## Current Development Tracks
 
-| Discipline | Current Focus |
-|------------|---------------|
-| SIEM Detection Engineering | Developing and tuning detection logic in Splunk / Elastic |
-| Endpoint Security Monitoring | Investigating endpoint telemetry using Microsoft Defender for Endpoint |
-| Threat Hunting | IOC development and behavioral detection techniques |
-| Network Traffic Analysis | Packet and flow inspection within lab environments |
-| Incident Response | Alert triage, case documentation, and reporting workflows |
+| Domain | Experience |
+|------|------|
+| Security Operations | Alert triage, investigation workflows, case documentation |
+| Endpoint Detection & Response | Telemetry analysis and alert investigation using Microsoft Defender for Endpoint |
+| Threat Intelligence | IOC enrichment, reputation analysis, OSINT correlation |
+| Detection Engineering | Detection tuning and logic development within SIEM environments |
+| Network Analysis | Packet inspection and traffic analysis using Wireshark and network tooling |
+| Incident Response | Investigation timelines, root cause analysis, and documentation |
 
 ## Certifications
 <a href="https://www.comptia.org/certifications/cybersecurity-analyst">
