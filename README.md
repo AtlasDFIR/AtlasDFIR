@@ -70,6 +70,3 @@ python -m modus_intel.cli scan 8.8.8.8 --format pretty
 
 ## Labs / Skill Building
 <img src="https://img.shields.io/badge/Hack%20The%20Box-SOC%20Analyst%20Path-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-
-## Projects
-- Work in progress, stay tuned!
