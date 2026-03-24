@@ -1,5 +1,8 @@
 # Howdy, I'm Hunter!
 <a href="https://linkedin.com/in/hunterlbass"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/48cbaad1-5638-4d76-8598-26df3aa3660a/public_url">
+  <img src="https://img.shields.io/badge/Credly-CySA%2B%20Verified-F6B11A?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
 
 I am currently enrolled at Western Governor's University pursuing a Bachelor's in Cybersecurity and Information Assurance, with plans to continue into a Master's program in the same field. Technology has always had my heart, and it is an incredible privilege to pursue it as a career.
 
