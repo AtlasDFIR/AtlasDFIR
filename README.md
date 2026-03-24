@@ -17,52 +17,31 @@ My lifelong obsession with technology and fancy doodads has led me to develop a 
 | Network Traffic Analysis | Packet & flow inspection across lab environments |
 | Incident Response | Alert triage, case documentation, reporting workflows |
 
-## Tools
-
-Below are the tools I frequently use (or used) at my job/s! I won't claim to be an expert, but I am familiar with the UI, usage, and nomenclature of most of them!
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-214478?&style=for-the-badge&logo=nmap&logoColor=white" />  
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM / Detection Engineering
-<div>
-    <img src="https://img.shields.io/badge/-SnapAttack-6A5ACD?&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### Network Security / Perimeter Defense
-<div>
-    <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-F04E23?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
-</div>
-
-### Identity Security / PAM
-<div>
-    <img src="https://img.shields.io/badge/-CyberArk-00B0F0?&style=for-the-badge&logo=cyberark&logoColor=white" />
-</div>
-
-### Case Management / SOAR / ITSM
-<div>
-    <img src="https://img.shields.io/badge/-ServiceNow-00A1E0?&style=for-the-badge&logo=servicenow&logoColor=white" />
-</div>
-
-### Security Awareness / Phishing Defense
-<div>
-  <img src="https://img.shields.io/badge/-Cofense-FF6A00?&style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-</div>
-
 ## Certifications
-<div>
-  <img src="https://img.shields.io/badge/-CompTIA%20CySA%2B-D22128?&style=for-the-badge&logo=comptia&logoColor=white" />
-</div>
+<a href="https://www.comptia.org/certifications/cybersecurity-analyst">
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" />
+</a>
+
+## Endpoint / EDR
+<img src="https://img.shields.io/badge/Microsoft-Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+## IAM / PAM
+<img src="https://img.shields.io/badge/CyberArk-Privileged%20Access-00B2A9?style=for-the-badge&logoColor=white" />
+
+## ITSM / Operations
+<img src="https://img.shields.io/badge/ServiceNow-ITSM-81B441?style=for-the-badge&logo=servicenow&logoColor=white" />
+
+## Network Security
+<img src="https://img.shields.io/badge/Palo%20Alto-Networks-F04E23?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/NSS%20Portal-Palo%20Alto%20Ops-F04E23?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-214478?style=for-the-badge&logoColor=white" />
+
+## Detection / SOC Tooling
+<img src="https://img.shields.io/badge/SnapAttack-Detection%20Engineering-6E44FF?style=for-the-badge&logoColor=white" />
+
+## Labs / Skill Building
+<img src="https://img.shields.io/badge/Hack%20The%20Box-SOC%20Analyst%20Path-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
 
 ## Projects
 - Work in progress, stay tuned!
