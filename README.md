@@ -21,6 +21,10 @@ My lifelong obsession with technology and curious systems has led me toward cybe
 
 MODUS-Intel is a Python-based OSINT enrichment and reputation analysis tool designed to rapidly evaluate Indicators of Compromise (IOCs). The scanner aggregates intelligence from multiple threat intelligence providers and produces a unified verdict to assist analysts with rapid triage during investigations.
 
+```markdown
+The project was created to emulate real-world SOC enrichment workflows where analysts must rapidly pivot on suspicious indicators and consolidate threat intelligence from multiple sources during investigations.
+```
+
 #### Capabilities
 
 - IOC enrichment from multiple OSINT providers  
