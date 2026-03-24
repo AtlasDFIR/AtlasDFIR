@@ -51,6 +51,13 @@ python -m modus_intel.cli scan 8.8.8.8 --format pretty
 | Network Analysis | Packet inspection and traffic analysis using Wireshark and network tooling |
 | Incident Response | Investigation timelines, root cause analysis, and documentation |
 
+## Tools & Platforms
+
+Microsoft Defender for Endpoint, Splunk, Entra ID (Azure AD), ServiceNow  
+CyberArk Privileged Access Management, Palo Alto Networks Firewalls  
+Wireshark, Nmap, SnapAttack Detection Engineering Platform  
+Hack The Box Labs, Python Automation
+
 ## Certifications
 <a href="https://www.comptia.org/certifications/cybersecurity-analyst">
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" />
