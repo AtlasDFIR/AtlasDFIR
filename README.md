@@ -7,6 +7,18 @@ I am currently enrolled at Western Governor's University pursuing a Bachelor's i
 
 My lifelong obsession with technology and curious systems has led me toward cybersecurity, a field often filled with puzzling alerts, questionable end users, and copious amounts of caffeine to investigate them. I am currently seeking opportunities to contribute within a Security Operations Center as a Tier 1 analyst or to support specialized cybersecurity teams focused on detection, investigation, and response.
 
+## Professional Experience Snapshot
+
+Security analyst experience supporting enterprise environments with a focus on alert triage, endpoint telemetry investigation, and incident documentation. Daily work involves analyzing security alerts, validating suspicious activity, and collaborating with engineering teams to improve detection and response workflows.
+
+Core responsibilities include:
+
+- Investigating endpoint alerts using Microsoft Defender for Endpoint telemetry
+- Correlating security events across SIEM platforms such as Splunk
+- Analyzing authentication activity within Entra ID environments
+- Supporting incident triage, case documentation, and escalation workflows
+- Assisting with detection tuning and threat intelligence enrichment
+
 ## Featured Projects
 
 ### MODUS-Intel
@@ -53,33 +65,14 @@ python -m modus_intel.cli scan 8.8.8.8 --format pretty
 
 ## Tools & Platforms
 
-Microsoft Defender for Endpoint, Splunk, Entra ID (Azure AD), ServiceNow  
-CyberArk Privileged Access Management, Palo Alto Networks Firewalls  
-Wireshark, Nmap, SnapAttack Detection Engineering Platform  
-Hack The Box Labs, Python Automation
+Security Monitoring: Microsoft Defender for Endpoint, Splunk  
+Identity & Access: Entra ID (Azure AD), CyberArk PAM  
+Network Security: Palo Alto Networks, Wireshark, Nmap  
+Operations & Ticketing: ServiceNow  
+Threat Intelligence & Detection: SnapAttack, Hack The Box Labs  
+Automation & Querying: Python, KQL
 
 ## Certifications
 <a href="https://www.comptia.org/certifications/cybersecurity-analyst">
   <img src="https://img.shields.io/badge/CompTIA-CySA%2B-ED1C24?style=for-the-badge&logo=comptia&logoColor=white" />
 </a>
-
-## Endpoint / EDR
-<img src="https://img.shields.io/badge/Microsoft-Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-## IAM / PAM
-<img src="https://img.shields.io/badge/CyberArk-Privileged%20Access-00B2A9?style=for-the-badge&logoColor=white" />
-
-## ITSM / Operations
-<img src="https://img.shields.io/badge/ServiceNow-ITSM-81B441?style=for-the-badge&logo=servicenow&logoColor=white" />
-
-## Network Security
-<img src="https://img.shields.io/badge/Palo%20Alto-Networks-F04E23?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/NSS%20Portal-Palo%20Alto%20Ops-F04E23?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-Network%20Scanning-214478?style=for-the-badge&logoColor=white" />
-
-## Detection / SOC Tooling
-<img src="https://img.shields.io/badge/SnapAttack-Detection%20Engineering-6E44FF?style=for-the-badge&logoColor=white" />
-
-## Labs / Skill Building
-<img src="https://img.shields.io/badge/Hack%20The%20Box-SOC%20Analyst%20Path-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
