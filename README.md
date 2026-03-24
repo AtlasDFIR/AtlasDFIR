@@ -1,11 +1,11 @@
 # Howdy, I'm Hunter!
 <a href="https://linkedin.com/in/hunterlbass"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently enrolled with Western Governor's University and looking to major with a Bachelor's in Cybersecurity and Information Assurance, and eventually earn a Master's in the same field! Technology has always had my heart and it's an absolute gift to be able to pursue it as a career :)
+I am currently enrolled at Western Governor's University pursuing a Bachelor's in Cybersecurity and Information Assurance, with plans to continue into a Master's program in the same field. Technology has always had my heart, and it is an incredible privilege to pursue it as a career.
 
 ## Objective
 
-My lifelong obsession with technology and fancy doodads has led me to develop a passion for the cybersecurity realm, often filled with puzzling alerts, questionable end-users, and copious amounts of caffeine to wash it all down. I am currently looking to be apart of a SOC as a Tier 1 analyst, or transition to a specialized team of cybersecurity!
+My lifelong obsession with technology and curious systems has led me toward cybersecurity, a field often filled with puzzling alerts, questionable end users, and copious amounts of caffeine to investigate them. I am currently seeking opportunities to contribute within a Security Operations Center as a Tier 1 analyst or to support specialized cybersecurity teams focused on detection, investigation, and response.
 
 ## Featured Projects
 
